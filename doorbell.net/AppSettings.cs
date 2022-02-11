@@ -1,4 +1,4 @@
-﻿namespace doorbell.net;
+﻿namespace doorbelldotnet;
 
 public class AppSettings
 {

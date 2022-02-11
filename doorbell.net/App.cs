@@ -1,4 +1,4 @@
-﻿using doorbell.net;
+﻿using doorbelldotnet;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 using System;

@@ -2,7 +2,7 @@
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 
-namespace doorbell.net;
+namespace doorbelldotnet;
 
 internal class Program
 {
